@@ -338,6 +338,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**posit-conf-2023** posit-conf-2023/shiny-r-dashboard](https://github.com/posit-conf-2023/shiny-r-dashboard) | [website](https://posit-conf-2023.github.io/shiny-r-dashboard/)
 - [**posit-conf-2023** posit-conf-2023/shiny-r-prod](https://github.com/posit-conf-2023/shiny-r-prod) | [website](https://posit-conf-2023.github.io/shiny-r-prod/)
 - [**ThinkR** ThinkR-open/engineering-shiny-book](https://github.com/ThinkR-open/engineering-shiny-book) | [website](https://engineering-shiny.org)
+- [**Ted Laderas** laderast/shinyowl](https://github.com/laderast/shinyowl/)
 
 ### Julia
 
