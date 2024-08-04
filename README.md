@@ -480,6 +480,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Data Carpentry** datacarpentry/organization-genomics](https://github.com/datacarpentry/organization-genomics) | [website](https://datacarpentry.org/organization-genomics)
 - [**The Gulbenkian Training Programme in Bioinformatics** GTPB/ELB19F](https://github.com/gtpb/ELB19F) | [website](https://gtpb.github.io/ELB19F/)
 - [**The McDonnell Genome Institute** genome/bfx-workshop](https://github.com/genome/bfx-workshop)
+- [**rapidspeciation** rapidspeciation/biodiversity_genomics_course](https://github.com/rapidspeciation/biodiversity_genomics_course)
 
 ### Next generation sequencing
 
@@ -493,6 +494,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/workshop-ngsintro](https://github.com/NBISweden/workshop-ngsintro) | [website](https://NBISweden.github.io/workshop-ngsintro)
 - [**Institut Français de Bioinformatique (IFB)** IFB-ElixirFr/EBAII](https://github.com/IFB-ElixirFr/EBAII) | [website](https://ifb-elixirfr.github.io/EBAII/)
 - [**Cloud-SPAN** Cloud-SPAN/00genomics](https://github.com/cloud-span/00genomics) | [website](https://cloud-span.github.io/00genomics/)
+- [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/workshop-ngsintro](https://github.com/nbisweden/workshop-ngsintro/) | [website](https://NBISweden.github.io/workshop-ngsintro)
 
 ### Transcriptomics
 
@@ -566,6 +568,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/workshop-pgip](https://github.com/NBISweden/workshop-pgip) | [website](https://nbisweden.github.io/workshop-pgip/)
 - [**UC Davis Bioinformatics Core Training Page** ucdavis-bioinformatics-training/2020-Variant_Analysis_Workshop](https://github.com/ucdavis-bioinformatics-training/2020-Variant_Analysis_Workshop)
 - [**UC Davis Bioinformatics Core Training Page** ucdavis-bioinformatics-training/2021-July-Genome-Wide-Association-Studies](https://github.com/ucdavis-bioinformatics-training/2021-July-Genome-Wide-Association-Studies)
+- [**Nina Overgaard Therkildsen** nt246/lcwgs-guide-tutorial](https://github.com/nt246/lcwgs-guide-tutorial)
 
 ### ChIP-seq
 
@@ -590,10 +593,12 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 ### Genome annotation
 
 - [**Katharina Hoff** KatharinaHoff/BRAKER-TSEBRA-Workshop](https://github.com/KatharinaHoff/BRAKER-TSEBRA-Workshop)
+- [**Katharina Hoff** KatharinaHoff/BRAKER-TSEBRA-Workshop](https://github.com/KatharinaHoff/BRAKER-TSEBRA-Workshop/tree/main)
 
 ### Genome assembly
 
 - [**UC Davis Bioinformatics Core Training Page** ucdavis-bioinformatics-training/2020-Genome_Assembly_Workshop](https://github.com/ucdavis-bioinformatics-training/2020-Genome_Assembly_Workshop)
+- [**ebp-nor** ebp-nor/genome-assembly-workshop-2023](https://github.com/ebp-nor/genome-assembly-workshop-2023)
 
 ### Metagenomics
 
@@ -643,6 +648,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/NGS-longreads-training](https://github.com/sib-swiss/NGS-longreads-training) | [website](https://sib-swiss.github.io/NGS-longreads-training/)
 - [**UC Davis Bioinformatics Core Training Page** ucdavis-bioinformatics-training/2021-August-Iso-Seq](https://github.com/ucdavis-bioinformatics-training/2021-August-Iso-Seq)
 - [**Ryan Wick** rrwick/Perfect-bacterial-genome-tutorial](https://github.com/rrwick/Perfect-bacterial-genome-tutorial)
+- [**Tim Kahlke** timkahlke/LongRead_tutorials](https://github.com/timkahlke/LongRead_tutorials/)
 
 ### Metabolomics
 
@@ -672,7 +678,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**carpentries-incubator** carpentries-incubator/capstone-novice-spreadsheet-biblio](https://github.com/carpentries-incubator/capstone-novice-spreadsheet-biblio) | [website](http://carpentries-incubator.github.io/capstone-novice-spreadsheet-biblio/)
 - [**ELIXIR Belgium** ELIXIR-Belgium/rdm-guide](https://github.com/ELIXIR-Belgium/rdm-guide) | [website](https://rdm.elixir-belgium.org)
 - [**ELIXIR Europe** elixir-europe/rdmkit](https://github.com/elixir-europe/rdmkit) | [website](https://rdmkit.elixir-europe.org)
-- [**Korbinian Bösl** ELIXIR-Norway-Training/DMP-writing-workshop](https://github.com/korbinib/DMP-writing-workshop) | [website](https://elixir.no)
+- [**ELIXIR-Norway Training** ELIXIR-Norway-Training/DMP-writing-workshop](https://github.com/ELIXIR-Norway-Training/DMP-writing-workshop) | [website](https://elixir.no)
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/sparql-training](https://github.com/sib-swiss/sparql-training)
 - [**OpenSciency** opensciency/sprint-content](https://github.com/opensciency/sprint-content) | [website](https://opensciency.github.io/sprint-content/)
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/ena-seqdata-training](https://github.com/sib-swiss/ena-seqdata-training) | [website](https://sib-swiss.github.io/ena-seqdata-training/)
@@ -692,7 +698,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 
 - [**carpentries-incubator** carpentries-incubator/fair-bio-practice](https://github.com/carpentries-incubator/fair-bio-practice) | [website](https://carpentries-incubator.github.io/fair-bio-practice/)
 - [**carpentries-incubator** carpentries-incubator/fair-for-leaders](https://github.com/carpentries-incubator/fair-for-leaders) | [website](https://carpentries-incubator.github.io/fair-for-leaders/)
-- [**elixir-oslo** ELIXIR-Norway-Training/fair-dm-lifesci-june-2022](https://github.com/elixir-oslo/fair-dm-lifesci-june-2022)
+- [**ELIXIR-Norway Training** ELIXIR-Norway-Training/fair-dm-lifesci-june-2022](https://github.com/ELIXIR-Norway-Training/fair-dm-lifesci-june-2022)
 - [**FAIRplus** FAIRplus/the-fair-cookbook](https://github.com/FAIRplus/the-fair-cookbook) | [website](https://faircookbook.elixir-europe.org)
 - [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/module-repository-submission-dm-practices](https://github.com/NBISweden/module-repository-submission-dm-practices) | [website](https://nbisweden.github.io/module-repository-submission-dm-practices/)
 - [**ELIXIR Europe Training** elixir-europe-training/ELIXIR-TrP-FAIR-training-handbook](https://github.com/elixir-europe-training/ELIXIR-TrP-FAIR-training-handbook) | [website](https://elixir-europe-training.github.io/ELIXIR-TrP-FAIR-training-handbook/)
