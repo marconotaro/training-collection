@@ -33,6 +33,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
   - [SQL](#sql)
   - [C/C++](#c/c++)
   - [Rust](#rust)
+  - [SPARQL](#sparql)
 - [Computational methods and pipelines](#computational-methods-and-pipelines)
   - [Containerization](#containerization)
   - [Galaxy](#galaxy)
@@ -389,7 +390,6 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 ### SQL
 
 - [**Data Carpentry** datacarpentry/sql-ecology-lesson](https://github.com/datacarpentry/sql-ecology-lesson) | [website](http://datacarpentry.github.io/sql-ecology-lesson)
-- [**Department of Bioinformatics - BiGCaT** BiGCAT-UM/SPARQLTutorialBioSB2019](https://github.com/bigcat-um/SPARQLTutorialBioSB2019)
 
 ### C/C++
 
@@ -399,6 +399,12 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 
 - [**Google** google/comprehensive-rust](https://github.com/google/comprehensive-rust) | [website](https://google.github.io/comprehensive-rust/)
 - [**The Rust Programming Language** rust-lang/rustlings](https://github.com/rust-lang/rustlings) | [website](https://rustlings.cool)
+
+### SPARQL
+
+- [**SIB Swiss Institute of Bioinformatics** sib-swiss/sparql-training](https://github.com/sib-swiss/sparql-training)
+- [**Department of Bioinformatics - BiGCaT** BiGCAT-UM/SPARQLTutorialBioSB2019](https://github.com/bigcat-um/SPARQLTutorialBioSB2019)
+- [**SIB Swiss Institute of Bioinformatics** sib-swiss/SPARQL_course](https://github.com/sib-swiss/SPARQL_course)
 
 ## Computational methods and pipelines
 
@@ -679,7 +685,6 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**ELIXIR Belgium** ELIXIR-Belgium/rdm-guide](https://github.com/ELIXIR-Belgium/rdm-guide) | [website](https://rdm.elixir-belgium.org)
 - [**ELIXIR Europe** elixir-europe/rdmkit](https://github.com/elixir-europe/rdmkit) | [website](https://rdmkit.elixir-europe.org)
 - [**ELIXIR-Norway Training** ELIXIR-Norway-Training/DMP-writing-workshop](https://github.com/ELIXIR-Norway-Training/DMP-writing-workshop) | [website](https://elixir.no)
-- [**SIB Swiss Institute of Bioinformatics** sib-swiss/sparql-training](https://github.com/sib-swiss/sparql-training)
 - [**OpenSciency** opensciency/sprint-content](https://github.com/opensciency/sprint-content) | [website](https://opensciency.github.io/sprint-content/)
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/ena-seqdata-training](https://github.com/sib-swiss/ena-seqdata-training) | [website](https://sib-swiss.github.io/ena-seqdata-training/)
 - [**VIB Technologies: Bioinformatics and software projects** vibbits/rdm-introductory-course](https://github.com/vibbits/rdm-introductory-course)
