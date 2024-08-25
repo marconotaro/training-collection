@@ -166,6 +166,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Kevin Heavey** kevinheavey/modern-polars](https://github.com/kevinheavey/modern-polars/) | [website](https://kevinheavey.github.io/modern-polars/)
 - [**Python Packages** py-pkgs/py-pkgs](https://github.com/py-pkgs/py-pkgs) | [website](https://py-pkgs.org)
 - [**bioinfo-prog** bioinfo-prog/cours-python](https://github.com/bioinfo-prog/cours-python) | [website](https://python.sdv.u-paris.fr)
+- [**R. Burke Squires** burkesquires/python_biologist](https://github.com/burkesquires/python_biologist)
 
 ### R
 
@@ -324,6 +325,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Leonardo Collado-Torres** lcolladotor/cshl_rstats_genome_scale_2024](https://github.com/lcolladotor/cshl_rstats_genome_scale_2024) | [website](https://lcolladotor.github.io/cshl_rstats_genome_scale_2024)
 - [**Sophie Lee** sophie-a-lee/Introduction_R_Tidyverse_course](https://github.com/sophie-a-lee/Introduction_R_Tidyverse_course) | [website](https://introduction-r-tidyverse.netlify.app)
 - [**Sophie Lee** sophie-a-lee/introduction_rstudio_dluch](https://github.com/sophie-a-lee/introduction_rstudio_dluch) | [website](https://intro-r-dluch.netlify.app)
+- [**Stephen Turner** stephenturner/workshops](https://github.com/stephenturner/workshops) | [website](http://stephenturner.github.io/workshops)
 
 ### Quarto
 
@@ -684,7 +686,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**carpentries-incubator** carpentries-incubator/capstone-novice-spreadsheet-biblio](https://github.com/carpentries-incubator/capstone-novice-spreadsheet-biblio) | [website](http://carpentries-incubator.github.io/capstone-novice-spreadsheet-biblio/)
 - [**ELIXIR Belgium** ELIXIR-Belgium/rdm-guide](https://github.com/ELIXIR-Belgium/rdm-guide) | [website](https://rdm.elixir-belgium.org)
 - [**ELIXIR Europe** elixir-europe/rdmkit](https://github.com/elixir-europe/rdmkit) | [website](https://rdmkit.elixir-europe.org)
-- [**ELIXIR-Norway Training** ELIXIR-Norway-Training/DMP-writing-workshop](https://github.com/ELIXIR-Norway-Training/DMP-writing-workshop) | [website](https://elixir.no)
+- [**ELIXIR-Norway Training** ELIXIR-Norway-Training/DMP-writing-workshop](https://github.com/ELIXIR-Norway-Training/DMP-writing-workshop) | [website](https://zenodo.org/doi/10.5281/zenodo.3693710)
 - [**OpenSciency** opensciency/sprint-content](https://github.com/opensciency/sprint-content) | [website](https://opensciency.github.io/sprint-content/)
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/ena-seqdata-training](https://github.com/sib-swiss/ena-seqdata-training) | [website](https://sib-swiss.github.io/ena-seqdata-training/)
 - [**VIB Technologies: Bioinformatics and software projects** vibbits/rdm-introductory-course](https://github.com/vibbits/rdm-introductory-course)
