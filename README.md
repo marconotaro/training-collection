@@ -489,6 +489,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**The Gulbenkian Training Programme in Bioinformatics** GTPB/ELB19F](https://github.com/gtpb/ELB19F) | [website](https://gtpb.github.io/ELB19F/)
 - [**The McDonnell Genome Institute** genome/bfx-workshop](https://github.com/genome/bfx-workshop)
 - [**rapidspeciation** rapidspeciation/biodiversity_genomics_course](https://github.com/rapidspeciation/biodiversity_genomics_course)
+- [**Applied Genomics** Applied-Genomics-UTD/docs](https://github.com/Applied-Genomics-UTD/docs)
 
 ### Next generation sequencing
 
