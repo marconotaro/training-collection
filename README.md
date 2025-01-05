@@ -843,6 +843,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Oslo Centre for Biostatistics and Epidemiology** ocbe-uio/teaching_mf9130e](https://github.com/ocbe-uio/teaching_mf9130e) | [website](https://ocbe-uio.github.io/teaching_mf9130e/)
 - [**Oslo Centre for Biostatistics and Epidemiology** ocbe-uio/course_med3007](https://github.com/ocbe-uio/course_med3007) | [website](https://ocbe-uio.github.io/course_med3007/)
 - [**Sébastien Wieckowski** sbwiecko/intuitive_biostatistics](https://github.com/sbwiecko/intuitive_biostatistics) | [website](https://sbwiecko.github.io/intuitive_biostatistics/)
+- [**Norm Matloff** matloff/fastStat](https://github.com/matloff/fastStat)
 
 ### Machine learning
 
@@ -876,6 +877,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**posit::conf(2024)** posit-conf-2024/vetiver](https://github.com/posit-conf-2024/vetiver) | [website](https://posit-conf-2024.github.io/vetiver/)
 - [**posit::conf(2024)** posit-conf-2024/ml-python](https://github.com/posit-conf-2024/ml-python) | [website](https://posit-conf-2024.github.io/ml-python/)
 - [**Neuromatch Academy** NeuromatchAcademy/course-content](https://github.com/NeuromatchAcademy/course-content) | [website](https://compneuro.neuromatch.io)
+- [**Emil Hvitfeldt** EmilHvitfeldt/feature-engineering-az](https://github.com/EmilHvitfeldt/feature-engineering-az) | [website](https://feaz-book.com)
 
 ### Artificial intelligence
 
@@ -918,3 +920,4 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**jhudsl** jhudsl/Informatics_Research_Leadership](https://github.com/jhudsl/Informatics_Research_Leadership) | [website](https://jhudatascience.org/Informatics_Research_Leadership/)
 - [**Pachter Lab** pachterlab/BI-BE-CS-183-2023](https://github.com/pachterlab/BI-BE-CS-183-2023)
 - [**St. Jude Children's Research Hospital** stjude/learngenomics.dev](https://github.com/stjude/learngenomics.dev) | [website](https://learngenomics.dev)
+- [**gladstone-institutes** gladstone-institutes/Bioinformatics-Workshops](https://github.com/gladstone-institutes/Bioinformatics-Workshops) | [website](https://github.com/gladstone-institutes/Bioinformatics-Presentations/wiki)
