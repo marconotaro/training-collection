@@ -381,6 +381,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Antonello Lobianco** sylvaticus/SPMLJ](https://github.com/sylvaticus/SPMLJ) | [website](https://sylvaticus.github.io/SPMLJ/stable)
 - [**Ben Lauwens** BenLauwens/ThinkJulia.jl](https://github.com/BenLauwens/ThinkJulia.jl)
 - [**Claudia Solis-Lemus** crsl4/julia-workshop](https://github.com/crsl4/julia-workshop) | [website](https://crsl4.github.io/julia-workshop/)
+- [**Samuel Omlin** omlins/julia-gpu-course](https://github.com/omlins/julia-gpu-course)
 
 ### Data visualization
 
@@ -526,6 +527,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**The McDonnell Genome Institute** genome/bfx-workshop](https://github.com/genome/bfx-workshop)
 - [**rapidspeciation** rapidspeciation/biodiversity_genomics_course](https://github.com/rapidspeciation/biodiversity_genomics_course)
 - [**Fred Hutch Data Science Lab** fhdsl/Choosing_Genomics_Tools](https://github.com/fhdsl/Choosing_Genomics_Tools) | [website](http://hutchdatascience.org/Choosing_Genomics_Tools/)
+- [**Raphael Mourad** raphaelmourad/LLM-for-genomics-training](https://github.com/raphaelmourad/LLM-for-genomics-training)
 
 ### Next generation sequencing
 
@@ -699,6 +701,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/workshop-spatial](https://github.com/NBISweden/workshop-spatial)
 - [**SIB Swiss Institute of Bioinformatics** sib-swiss/spatial-transcriptomics-training](https://github.com/sib-swiss/spatial-transcriptomics-training/) | [website](https://sib-swiss.github.io/spatial-transcriptomics-training/)
 - [**ELIXIR Europe Training** elixir-europe-training/ELIXIR-SCO-spatial-omics](https://github.com/elixir-europe-training/ELIXIR-SCO-spatial-omics) | [website](https://elixir-europe-training.github.io/ELIXIR-SCO-spatial-omics/)
+- [**Lukas Weber** lmweber/OSTA](https://github.com/lmweber/OSTA) | [website](https://lmweber.org/OSTA/)
 
 ### Long read sequencing
 
@@ -874,7 +877,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Lex Fridman** lexfridman/mit-deep-learning](https://github.com/lexfridman/mit-deep-learning) | [website](https://deeplearning.mit.edu)
 - [**cambiotraining** cambiotraining/intro-machine-learning](https://github.com/cambiotraining/intro-machine-learning/) | [website](https://cambiotraining.github.io/intro-machine-learning/)
 - [**carpentries-incubator** carpentries-incubator/data-science-ai-senior-researchers](https://github.com/carpentries-incubator/data-science-ai-senior-researchers) | [website](https://carpentries-incubator.github.io/data-science-ai-senior-researchers/)
-- [**carpentries-incubator** carpentries-incubator/deep-learning-intro](https://github.com/carpentries-incubator/deep-learning-intro) | [website](https://carpentries-incubator.github.io/deep-learning-intro/)
+- [**carpentries-incubator** carpentries-incubator/deep-learning-intro](https://github.com/carpentries-incubator/deep-learning-intro) | [website](https://carpentries-lab.github.io/deep-learning-intro/)
 - [**Sven Degroeve** sdgroeve/Machine-Learning-Course-2days](https://github.com/sdgroeve/Machine-Learning-Course-2days)
 - [**Philip Bowsher** philbowsher/Workshop-R-Tensorflow-Scientific-Computing](https://github.com/philbowsher/Workshop-R-Tensorflow-Scientific-Computing)
 - [**Nicola Rennie** nrennie/r-pharma-2023-tidymodels](https://github.com/nrennie/r-pharma-2023-tidymodels) | [website](https://nrennie.github.io/r-pharma-2023-tidymodels/)
